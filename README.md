@@ -66,7 +66,7 @@ ORDER BY null_count DESC;
 ```
 **Objective:** Determine null values in the dataset.
 
-## 2. Find the number of movies released each year (25-year bins)
+## 2. The number of movies released each year (25-year bins)
 
 ```sql
 SELECT
@@ -85,7 +85,7 @@ ORDER BY year_bin;
 ```
 **Objective:** Analyse the distribution of movie released across different historical periods.
 
-## 3. Determine the valid range and distribution of IMDb rating
+## 3. The valid range and distribution of IMDb rating
 
 ### 3.1. Query 1: Range of IMDb ratings
 
@@ -113,7 +113,7 @@ ORDER BY rating_group;
 ```
 **Objective:** Categorise movies into rating groups and counts how many fall into each group.
 
-## 4. Find the top 10 movie genres
+## 4. Top 10 movie genres by the number of movies released
 
 ```sql
 SELECT
@@ -126,7 +126,7 @@ LIMIT 10;
 ```
 **Objective:** Determine the most frequently occurring movie genres in the IMDb dataset.
 
-## 5. Find average IMDb ratings by genre
+## 5. Average IMDb ratings by genre
 
 ```sql
 SELECT

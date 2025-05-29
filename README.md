@@ -4,7 +4,7 @@ PROJECT BY LINH NGUYEN
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/1200px-IMDB_Logo_2016.svg.png)
 
 ## Overview
-This project involves a detailed exploratory analysis of IMDb's movie dataset using SQL. The aim is to explore the data, identify patterns, detect anomalies, and generate useful insights about movies. This README provides an overview of the project's objectives, analytical approach, key findings, and overall conclusions.
+This project presents a comprehensive exploratory data analysis (EDA) of the IMDb Top 1000 Movies and TV Shows dataset using SQL. The primary objective is to uncover meaningful patterns, trends, and relationships within the dataset by examining various aspects such as ratings, genres, revenue, and the people behind the films.
 
 ## Dataset
 The data used in this project is from Kaggle:

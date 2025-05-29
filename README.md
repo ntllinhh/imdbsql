@@ -126,7 +126,7 @@ WHERE released_year IS NOT NULL
 GROUP BY year_bin
 ORDER BY year_bin;
 ```
-**Insights you can gain:** Track the growht or decline of movie production over long historical periods.
+**Insights you can gain:** Track the growth or decline of movie production over long historical periods.
 
 ### 5. How does IMDb rating vary by genre?
 
